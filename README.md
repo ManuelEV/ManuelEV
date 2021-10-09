@@ -20,17 +20,21 @@ Here are some ideas to get you started:
 
 
 <!-- ![](resources/interests/basketball-ball.svg | width=100) -->
+<p align="center">
+  <img src="resources/interests/basketball-ball.svg" width="50" height="50" />
+  <img src="resources/interests/brush.svg" width="50" height="50" />
+  <img src="resources/interests/gamepad.svg" width="50" height="50" />
+  <img src="resources/interests/headphones.svg" width="50" height="50" />
+  <img src="resources/interests/photoshop.svg" width="50" height="50" />
+</p>
 
-<img src="resources/interests/basketball-ball.svg" width="50" height="50" />
-<img src="resources/interests/brush.svg" width="50" height="50" />
-<img src="resources/interests/gamepad.svg" width="50" height="50" />
-<img src="resources/interests/headphones.svg" width="50" height="50" />
-<img src="resources/interests/photoshop.svg" width="50" height="50" />
 
 ## Technologies 👓🛠
 
-<img src="resources/technologies/spring-boot.svg" width="50" height="50" />
-<img src="resources/technologies/angular.svg" width="50" height="50" />
-<img src="resources/technologies/react.svg" width="50" height="50" />
-<img src="resources/technologies/vue-js.svg" width="50" height="50" />
-<img src="resources/technologies/node-js.svg" width="50" height="50" />
+<p align="center">
+  <img src="resources/technologies/spring-boot.svg" width="50" height="50" />
+  <img src="resources/technologies/angular.svg" width="50" height="50" />
+  <img src="resources/technologies/react.svg" width="50" height="50" />
+  <img src="resources/technologies/vue-js.svg" width="50" height="50" />
+  <img src="resources/technologies/node-js.svg" width="50" height="50" />
+</p>
