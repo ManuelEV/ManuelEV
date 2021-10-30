@@ -1,23 +1,11 @@
-# Manuel Espinoza - Software Engineer
 
-<!--
-**ManuelEV/ManuelEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Manuel Espinoza - Software Engineer 
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Interests 🤠👾
-
+<h2 align="center">
+Interests 🤠👾
+</h2>
 
 <!-- ![](resources/interests/basketball-ball.svg | width=100) -->
 <p align="center">
@@ -28,8 +16,9 @@ Here are some ideas to get you started:
   <img src="resources/interests/photoshop.svg" width="50" height="50" />
 </p>
 
-
-## Technologies 👓🛠
+<h2 align="center">
+Technologies 👓🛠
+</h2>
 
 <p align="center">
   <img src="resources/technologies/spring-boot.svg" width="50" height="50" />
