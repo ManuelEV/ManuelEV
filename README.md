@@ -22,8 +22,6 @@ Technologies 👓🛠
 
 <p align="center">
   <img src="resources/technologies/spring-boot.svg" width="50" height="50" />
-  <img src="resources/technologies/angular.svg" width="50" height="50" />
   <img src="resources/technologies/react.svg" width="50" height="50" />
-  <img src="resources/technologies/vue-js.svg" width="50" height="50" />
   <img src="resources/technologies/node-js.svg" width="50" height="50" />
 </p>
