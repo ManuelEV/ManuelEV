@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 38" width="144" height="38" role="img" aria-label="alguien.dev">
+  <rect x=".5" y=".5" width="143" height="37" rx="18.5" fill="#f2b544" stroke="#f2b544"/>
+  <text x="18" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" font-weight="600" fill="#000000">alguien.dev</text>
+  <path d="M 119 23 L 127 15 M 121 15 H 127 V 21" fill="none" stroke="#000000" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
